@@ -1,0 +1,30 @@
+{
+    "document": [
+      {
+        "id": 1,
+        "title": "Great Wall of China.",
+        "content": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups."
+      },
+      {
+        "id": 2,
+        "title": "Statue of Liberty.",
+        "content": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The statue, designed by French sculptor Frédéric Auguste Bartholdi and its metal framework built by Gustave Eiffel, was a gift from the people of France to the United States."
+      },
+      {
+        "id": 3,
+        "title": "Gateway of India.",
+        "content": "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing of King George V and Queen Mary in 1911. The structure is an example of Indo-Saracenic architecture."
+    },
+    {
+        "id": 4,
+        "title": "The Red Ford.",
+        "content": "The Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the Mughal emperors for nearly 200 years, until 1856. It is located in the center of Delhi and houses a number of museums."
+    },
+    {
+        "id": 5,
+        "title": "The Golden Temple",
+        "content": "The Golden Temple, also known as Harmandir Sahib, is a Gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism. The temple is built around a man-made pool that was completed by Guru Ram Das in 1577."
+    }
+    ]
+  }
+  
